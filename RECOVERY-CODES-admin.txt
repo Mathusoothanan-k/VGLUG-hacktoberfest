@@ -1,0 +1,34 @@
+ManageEngine Vulnerability Manager Plus - - BACKUP VERIFICATION CODES
+
+Points to note
+--------------
+# Each code can be used only once.
+# Do not share these codes with anyone.
+# If you have used up all your codes or lost them, you can always generate a new set of codes.
+# Whenever you generate a new set of codes, the old unused codes will become invalid.
+
+
+Generated codes
+--------------
+Username:admin
+Generated on: Oct 6, 2025 03:32 PM
+1.Y5UySHKbrAE6oFLe
+2.EtanqkXX4RziuaX2
+3.0jGd3SlSfMa9wleR
+4.rF3jvwm8YNwHgMpA
+5.7ZDNG81NTHzwvgeN
+6.AdNQw8q5Tn6z69Yy
+7.Q81PrCWAwHNAvGNh
+8.nwuZNwW47ZIrevUH
+9.P4XoaSZRiTR0Ns25
+10.z6ddMeU2pssfl2yg
+
+
+
+
+
+Help article links
+------------------
+
+# How to recover your account using these codes: https://www.manageengine.com/vulnerability-management/how-to/reset-vulnerability-manager-plus-password.html
+# How to generate new codes: https://www.manageengine.com/vulnerability-management/how-to/usermanagement-lifecycle.html#umlc-personalization
