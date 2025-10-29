@@ -1,3 +1,5 @@
+# current floder insaid show the list of files
+
 import os
 
 json_path = os.path.join(os.path.dirname(__file__), "translations")
